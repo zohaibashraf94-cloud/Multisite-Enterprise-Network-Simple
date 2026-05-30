@@ -75,7 +75,4 @@ During initial validation, the remote Branch PC successfully claimed a dynamic I
   ```text
   HQ-Core-SW(config)# interface FastEthernet0/1
   HQ-Core-SW(config-if)# switchport access vlan 11
-Reply from 10.1.11.50: bytes=32 time=12ms TTL=126
-Reply from 10.1.11.50: bytes=32 time=10ms TTL=126
 
-Packet statistics: Sent = 2, Received = 2, Lost = 0 (0% loss)
